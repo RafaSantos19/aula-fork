@@ -22,6 +22,7 @@ O site do Fã Clube do Rafael foi criado para reunir fãs e compartilhar o quant
 
 - HTML
 - CSS
+- JavaScript
 
 ## Licença
 
